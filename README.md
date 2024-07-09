@@ -1,7 +1,7 @@
 # Starbucks-IEDC
 ---
 
-## Starbucks Clone developed by Ansh Sharma, BTech. NIT Calicut
+## Starbucks Replica developed by Ansh Sharma, BTech. NIT Calicut
 
 - **Features**:
   - Responsive design that works well on various screen sizes, from mobile devices to desktops.
