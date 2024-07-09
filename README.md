@@ -1,6 +1,4 @@
 # Starbucks-IEDC
-Certainly! Below, I've provided two different options for creating a README file for your Starbucks frontend website project. You can choose the one that best fits your needs:
-
 ---
 
 ## Starbucks Clone developed by Ansh Sharma, BTech. NIT Calicut
